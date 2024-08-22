@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------
 # File     : airflow-dag-details.py
 # @Author  : Biniyam Erana
 # @Contact : 
 # @Created : May 23, 2024
 # @Version : '1.0'
 # @License :
-# @Desc    : Get Airflow DAG Details
-# ---------------------------------------------------------------------------
+# @Desc    : Get Airflow DAG Details - Streamline Airflow DAG Automation Monitoring
+# ----------------------------------------------------------------------------------
 
 import os
 import re
